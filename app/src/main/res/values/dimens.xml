@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho_texto">70sp</dimen>
+    <dimen name="paddind_padrao">10dp</dimen>
+    <dimen name="tamanho_texto_segundo">22sp</dimen>
+</resources>
